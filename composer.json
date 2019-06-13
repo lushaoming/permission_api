@@ -1,0 +1,14 @@
+{
+    "name": "shannon/permission",
+    "description": "permission management",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Shannon\\Permission\\": "src/Shannon/Permission"
+        }
+    }
+}
